@@ -1,9 +1,19 @@
 package structs.doubleLinkedList;
 
-public class ListNode {
+public class DoubleListNode {
 
     int value;
-    ListNode next;
-    ListNode prev;
+    DoubleListNode next;
+    DoubleListNode prev;
+
+    public DoubleListNode(int value) {
+        this(value, null, null);
+    }
+
+    public DoubleListNode(int value, DoubleListNode next, DoubleListNode prev) {
+        this.value = value;
+        this.next = next;
+        this.prev = prev;
+    }
 
 }

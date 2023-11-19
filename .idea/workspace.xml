@@ -5,12 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c79b33b-d2bc-4b45-ba42-ddcd5e17cd88" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/arrays/StaticArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/arrays/StaticArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/arrays/exercises/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/arrays/exercises/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/arrays/exercises/RemoveElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/arrays/exercises/RemoveElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/dinamicArray/DynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/dinamicArray/DynamicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/dinamicArray/execises/ConcatenationOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/dinamicArray/execises/ConcatenationOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/DoubleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/DoubleListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/DoubleListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/DoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/exercises/BrowserHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/exercises/BrowserHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/exercises/DesignLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/exercises/DesignLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/linkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/linkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/linkedList/execises/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/linkedList/execises/MergeTwoSortedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/linkedList/execises/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/linkedList/execises/ReverseLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/queues/DoubleSideQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/queues/DoubleSideQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/queues/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/queues/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/stack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/stack/execises/BasketballGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/stack/execises/BasketballGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/stack/execises/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/stack/execises/MinStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/stack/execises/ValidateParenthses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/stack/execises/ValidateParenthses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,11 +53,101 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="structs.arrays" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Queue">
+    <configuration name="BrowserHistory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structs.doubleLinkedList.exercises.BrowserHistory" />
+      <module name="AlgorithmNeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structs.doubleLinkedList.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesignLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structs.doubleLinkedList.exercises.DesignLinkedList" />
+      <module name="AlgorithmNeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structs.doubleLinkedList.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeTwoSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structs.linkedList.execises.MergeTwoSortedLists" />
+      <module name="AlgorithmNeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structs.linkedList.execises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structs.queues.Queue" />
+      <module name="AlgorithmNeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structs.queues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structs.linkedList.execises.ReverseLinkedList" />
+      <module name="AlgorithmNeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structs.linkedList.execises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Queue" />
+        <item itemvalue="Application.BrowserHistory" />
+        <item itemvalue="Application.DesignLinkedList" />
+        <item itemvalue="Application.MergeTwoSortedLists" />
+        <item itemvalue="Application.ReverseLinkedList" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,8 +156,92 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699008048009</updated>
-      <workItem from="1699008049101" duration="1000" />
+      <workItem from="1699008049101" duration="35060000" />
+      <workItem from="1699609281778" duration="4589000" />
+      <workItem from="1699647447410" duration="1593000" />
+      <workItem from="1699760754722" duration="17439000" />
+      <workItem from="1699919902097" duration="6524000" />
+      <workItem from="1699998424633" duration="20530000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/structs/linkedList/execises/ReverseLinkedList.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/structs/linkedList/execises/ReverseLinkedList.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/structs/linkedList/execises/ReverseLinkedList.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/exercises/DesignLinkedList.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/exercises/DesignLinkedList.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/exercises/DesignLinkedList.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/exercises/DesignLinkedList.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/exercises/DesignLinkedList.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/exercises/DesignLinkedList.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/exercises/BrowserHistory.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/structs/queues/Queue.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="structs.doubleLinkedList.exercises.DesignLinkedList$Node" memberName="next" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="list2" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Algorithm___NeetCode$DesignLinkedList.ic" NAME="DesignLinkedList Coverage Results" MODIFIED="1699818656777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>structs.doubleLinkedList.exercises.*</FILTER>
+    </SUITE>
   </component>
 </project>
