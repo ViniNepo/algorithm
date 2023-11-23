@@ -5,28 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c79b33b-d2bc-4b45-ba42-ddcd5e17cd88" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/queues/execises/ImplementStackUsingQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/queues/execises/NumberOfStudentsUnableToEatLunch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/recursion/ClimbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/recursion/factorial/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/recursion/factorial/exercises/FibonacciNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/recursion/factorial/exercises/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/recursion/febonacciSequence/Fibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structs/arrays/StaticArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/arrays/StaticArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structs/arrays/exercises/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/arrays/exercises/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structs/arrays/exercises/RemoveElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/arrays/exercises/RemoveElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structs/dinamicArray/DynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/dinamicArray/DynamicArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structs/dinamicArray/execises/ConcatenationOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/dinamicArray/execises/ConcatenationOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/DoubleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/DoubleListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/DoubleListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/DoublyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/exercises/BrowserHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/exercises/BrowserHistory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/exercises/DesignLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/doubleLinkedList/exercises/DesignLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structs/linkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/linkedList/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structs/linkedList/execises/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/linkedList/execises/MergeTwoSortedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structs/linkedList/execises/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/linkedList/execises/ReverseLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/structs/queues/DoubleSideQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/queues/DoubleSideQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structs/queues/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/queues/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structs/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/stack/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structs/stack/execises/BasketballGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/stack/execises/BasketballGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structs/stack/execises/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/stack/execises/MinStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structs/stack/execises/ValidateParenthses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/stack/execises/ValidateParenthses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,36 +36,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="structs.arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Queue">
-    <configuration name="BrowserHistory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structs.doubleLinkedList.exercises.BrowserHistory" />
+  <component name="RunManager" selected="Application.Fibonacci">
+    <configuration name="DoubleSideQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structs.queues.DoubleSideQueue" />
       <module name="AlgorithmNeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structs.doubleLinkedList.exercises.*" />
+          <option name="PATTERN" value="structs.queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesignLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structs.doubleLinkedList.exercises.DesignLinkedList" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structs.febonacciSequence.Fibonacci" />
       <module name="AlgorithmNeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structs.doubleLinkedList.exercises.*" />
+          <option name="PATTERN" value="structs.febonacciSequence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structs.linkedList.execises.MergeTwoSortedLists" />
+    <configuration name="ImplementStackUsingQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structs.queues.execises.ImplementStackUsingQueues" />
       <module name="AlgorithmNeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structs.linkedList.execises.*" />
+          <option name="PATTERN" value="structs.queues.execises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +113,11 @@
       </method>
     </configuration>
     <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structs.linkedList.execises.ReverseLinkedList" />
+      <option name="MAIN_CLASS_NAME" value="structs.factorial.exercises.ReverseLinkedList" />
       <module name="AlgorithmNeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structs.linkedList.execises.*" />
+          <option name="PATTERN" value="structs.factorial.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Queue" />
-        <item itemvalue="Application.BrowserHistory" />
-        <item itemvalue="Application.DesignLinkedList" />
-        <item itemvalue="Application.MergeTwoSortedLists" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.ImplementStackUsingQueues" />
         <item itemvalue="Application.ReverseLinkedList" />
+        <item itemvalue="Application.DoubleSideQueue" />
+        <item itemvalue="Application.Queue" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +148,10 @@
       <workItem from="1699647447410" duration="1593000" />
       <workItem from="1699760754722" duration="17439000" />
       <workItem from="1699919902097" duration="6524000" />
-      <workItem from="1699998424633" duration="20530000" />
+      <workItem from="1699998424633" duration="21171000" />
+      <workItem from="1700472694450" duration="5112000" />
+      <workItem from="1700513720304" duration="6495000" />
+      <workItem from="1700683263785" duration="7872000" />
     </task>
     <servers />
   </component>
@@ -226,10 +216,41 @@
           <line>40</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/structs/queues/DoubleSideQueue.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/structs/recursion/factorial/exercises/ReverseLinkedList.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/structs/recursion/factorial/exercises/ReverseLinkedList.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/structs/recursion/factorial/exercises/ReverseLinkedList.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/structs/recursion/febonacciSequence/Fibonacci.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/structs/recursion/febonacciSequence/Fibonacci.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
+        <PinnedItemInfo parentTag="structs.linkedList.ListNode" memberName="val" />
         <PinnedItemInfo parentTag="structs.doubleLinkedList.exercises.DesignLinkedList$Node" memberName="next" />
       </pinned-members>
     </pin-to-top-manager>
