@@ -5,15 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c79b33b-d2bc-4b45-ba42-ddcd5e17cd88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/structs/queues/execises/ImplementStackUsingQueues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structs/queues/execises/NumberOfStudentsUnableToEatLunch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structs/recursion/ClimbStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structs/recursion/factorial/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structs/recursion/factorial/exercises/FibonacciNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structs/recursion/factorial/exercises/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structs/recursion/febonacciSequence/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/arrays/PrefixSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/arrays/exercises/RangeSumQueryImmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/dinamicArray/execises/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/hashMap_Set/HashMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/hashMap_Set/exercices/ContainDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/hashMap_Set/exercices/DesignHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/hashMap_Set/exercices/GroupAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/hashMap_Set/exercices/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/sorting/insertionSort/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/sorting/insertionSort/execises/InsertionSortPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/sorting/insertionSort/execises/SortAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/sorting/mergeSort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/sorting/mergeSort/exercises/MergeKeyPair.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structs/queues/DoubleSideQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/queues/DoubleSideQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +36,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Xf6z2nTNyTzri8zZfNKkfba47j" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,6 +50,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vnepomuceno/Documents/mySpace/git/Algorithm - NeetCode&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -59,13 +67,13 @@
       <recent name="structs.arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Fibonacci">
-    <configuration name="DoubleSideQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structs.queues.DoubleSideQueue" />
+  <component name="RunManager" selected="Application.SortAnArray">
+    <configuration name="GroupAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structs.hashMap_Set.exercices.GroupAnagram" />
       <module name="AlgorithmNeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structs.queues.*" />
+          <option name="PATTERN" value="structs.hashMap_Set.exercices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structs.febonacciSequence.Fibonacci" />
+    <configuration name="RangeSumQueryImmutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structs.arrays.exercises.RangeSumQueryImmutable" />
       <module name="AlgorithmNeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structs.febonacciSequence.*" />
+          <option name="PATTERN" value="structs.arrays.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImplementStackUsingQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structs.queues.execises.ImplementStackUsingQueues" />
+    <configuration name="SortAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structs.sorting.insertionSort.execises.SortAnArray" />
       <module name="AlgorithmNeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structs.queues.execises.*" />
+          <option name="PATTERN" value="structs.sorting.insertionSort.execises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structs.queues.Queue" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structs.dinamicArray.execises.TwoSum" />
       <module name="AlgorithmNeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structs.queues.*" />
+          <option name="PATTERN" value="structs.dinamicArray.execises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structs.factorial.exercises.ReverseLinkedList" />
+    <configuration name="ValidAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structs.hashMap_Set.exercices.ValidAnagram" />
       <module name="AlgorithmNeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="structs.factorial.exercises.*" />
+          <option name="PATTERN" value="structs.hashMap_Set.exercices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.ImplementStackUsingQueues" />
-        <item itemvalue="Application.ReverseLinkedList" />
-        <item itemvalue="Application.DoubleSideQueue" />
-        <item itemvalue="Application.Queue" />
+        <item itemvalue="Application.SortAnArray" />
+        <item itemvalue="Application.GroupAnagram" />
+        <item itemvalue="Application.RangeSumQueryImmutable" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.ValidAnagram" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +159,19 @@
       <workItem from="1699998424633" duration="21171000" />
       <workItem from="1700472694450" duration="5112000" />
       <workItem from="1700513720304" duration="6495000" />
-      <workItem from="1700683263785" duration="7872000" />
+      <workItem from="1700683263785" duration="12066000" />
+      <workItem from="1700783752648" duration="3809000" />
+      <workItem from="1700848161720" duration="7380000" />
+      <workItem from="1701052061019" duration="3761000" />
+      <workItem from="1701772803425" duration="601000" />
+      <workItem from="1701773798049" duration="1258000" />
+      <workItem from="1705313208754" duration="1199000" />
+      <workItem from="1705395263663" duration="5488000" />
+      <workItem from="1705479729644" duration="3121000" />
+      <workItem from="1705687278937" duration="3407000" />
+      <workItem from="1705976460240" duration="1052000" />
+      <workItem from="1706284285233" duration="876000" />
+      <workItem from="1706605915773" duration="2546000" />
     </task>
     <servers />
   </component>
@@ -245,6 +265,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/structs/recursion/febonacciSequence/Fibonacci.java</url>
           <line>19</line>
           <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/structs/dinamicArray/execises/TwoSum.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/structs/dinamicArray/execises/TwoSum.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/structs/sorting/insertionSort/execises/SortAnArray.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
