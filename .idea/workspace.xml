@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c79b33b-d2bc-4b45-ba42-ddcd5e17cd88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/structs/arrays/PrefixSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structs/arrays/exercises/RangeSumQueryImmutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structs/dinamicArray/execises/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structs/hashMap_Set/HashMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structs/hashMap_Set/exercices/ContainDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structs/hashMap_Set/exercices/DesignHashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structs/hashMap_Set/exercices/GroupAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structs/hashMap_Set/exercices/ValidAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structs/sorting/insertionSort/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structs/sorting/insertionSort/execises/InsertionSortPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structs/sorting/insertionSort/execises/SortAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structs/sorting/mergeSort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/structs/sorting/mergeSort/exercises/MergeKeyPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structs/sorting/mergeSort/exercises/MergeKSortedLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/sorting/mergeSort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/sorting/mergeSort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structs/sorting/mergeSort/exercises/MergeKeyPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structs/sorting/mergeSort/exercises/MergeKeyPair.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +57,39 @@
       <recent name="structs.arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortAnArray">
+  <component name="RunManager" selected="Application.MergeKSortedLists">
     <configuration name="GroupAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="structs.hashMap_Set.exercices.GroupAnagram" />
       <module name="AlgorithmNeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="structs.hashMap_Set.exercices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeKSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structs.sorting.mergeSort.exercises.MergeKSortedLists" />
+      <module name="AlgorithmNeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structs.sorting.mergeSort.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structs.sorting.mergeSort.MergeSort" />
+      <module name="AlgorithmNeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structs.sorting.mergeSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,39 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structs.dinamicArray.execises.TwoSum" />
-      <module name="AlgorithmNeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="structs.dinamicArray.execises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structs.hashMap_Set.exercices.ValidAnagram" />
-      <module name="AlgorithmNeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="structs.hashMap_Set.exercices.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeKSortedLists" />
+        <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.SortAnArray" />
         <item itemvalue="Application.GroupAnagram" />
         <item itemvalue="Application.RangeSumQueryImmutable" />
-        <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.ValidAnagram" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +161,13 @@
       <workItem from="1705687278937" duration="3407000" />
       <workItem from="1705976460240" duration="1052000" />
       <workItem from="1706284285233" duration="876000" />
-      <workItem from="1706605915773" duration="2546000" />
+      <workItem from="1706605915773" duration="4951000" />
+      <workItem from="1706777707683" duration="5967000" />
+      <workItem from="1706832543380" duration="2838000" />
+      <workItem from="1707295291688" duration="552000" />
+      <workItem from="1707295857606" duration="240000" />
+      <workItem from="1707296592535" duration="1121000" />
+      <workItem from="1708977500736" duration="1040000" />
     </task>
     <servers />
   </component>
