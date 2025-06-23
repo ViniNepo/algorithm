@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	stack "github.com/ViniNepo/algorithm/golang/roadmap/3_stack"
+	sliding_window "github.com/ViniNepo/algorithm/golang/roadmap/5_sliding_window"
 )
 
 func main() {
@@ -121,21 +121,61 @@ func main() {
 	//result := stack.EvalRPN(tokens)
 	//println(result)
 
-	//Generate Parenthesis
+	// Generate Parenthesis
 	//pairs := 3
 	//result := stack.GenerateParenthesis(pairs)
 	//for _, res := range result {
 	//	fmt.Println(res)
 	//}
 
-	//Daily temperatures
+	// Daily temperatures
 	//temperatures := []int{30, 38, 30, 36, 35, 40, 28}
 	//result := stack.DailyTemperature(temperatures)
 	//fmt.Println(result)
 
-	//Car fleet
-	target := 10
-	positions, speed := []int{4, 1, 0, 7}, []int{2, 2, 1, 1}
-	result := stack.CarFleet(target, positions, speed)
-	fmt.Println(result)
+	// Car fleet
+	//target := 10
+	//positions, speed := []int{4, 1, 0, 7}, []int{2, 2, 1, 1}
+	//result := stack.CarFleet(target, positions, speed)
+	//fmt.Println(result)
+
+	////////////////////////////////////////////////////////
+
+	// Binary Search
+
+	// Search 2D matrix
+	//matrix := [][]int{[]int{1, 2, 4, 8}, []int{10, 11, 12, 13}, []int{14, 20, 30, 40}}
+	//fmt.Println(binarysearch.SearchMatrix(matrix, 10))
+
+	// Eating bananas
+	//pile := []int{1, 4, 3, 2}
+	//fmt.Println(binarysearch.MinEatingSpeed(pile, 9))
+
+	// Find min value rotated array
+	//arr := []int{4, 5, 0, 1, 2, 3}
+	//fmt.Println(binarysearch.FindMinimumRotatedSortedKey(arr))
+
+	// Search in sorted array
+	//arr := []int{3, 4, 5, 6, 1, 2}
+	//arr := []int{3, 5, 6, 0, 1, 2}
+	//fmt.Println(binarysearch.SearchInRotatedSortedKey(arr, 4))
+
+	////////////////////////////////////////////////////////
+
+	// Sliding Window
+
+	// Best time to buy and sell
+	//prices := []int{7, 2, 5, 3, 6, 4, 1, 9}
+	//fmt.Println(sliding_window.MaxProfit(prices))
+
+	// Longest substring without repeating chars
+	//str := "abcade"
+	//fmt.Println(sliding_window.LongestSubstring(str))
+
+	// Longest repeating substring with replacement
+	//str := "AAABABB"
+	//fmt.Println(sliding_window.CharacterReplacement(str, 2))
+
+	// Permutation string
+	fmt.Println(sliding_window.CheckInclusion("abc", "lecabee"))
 }
