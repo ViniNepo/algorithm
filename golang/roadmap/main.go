@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	sliding_window "github.com/ViniNepo/algorithm/golang/roadmap/5_sliding_window"
+	datastruc "github.com/ViniNepo/algorithm/golang/date_structure/arrays_and_hashing"
+	linked_list "github.com/ViniNepo/algorithm/golang/roadmap/6_linked_list"
 )
 
 func main() {
@@ -177,5 +178,56 @@ func main() {
 	//fmt.Println(sliding_window.CharacterReplacement(str, 2))
 
 	// Permutation string
-	fmt.Println(sliding_window.CheckInclusion("abc", "lecabee"))
+	//fmt.Println(sliding_window.CheckInclusion("abc", "lecabee"))
+
+	////////////////////////////////////////////////////////
+
+	// Linked list
+
+	//Reverse linked List
+	//node := datastruc.ListNode{Val: 0}
+	//node.Next = &datastruc.ListNode{Val: 1}
+	//node.Next.Next = &datastruc.ListNode{Val: 2}
+	//node.Next.Next.Next = &datastruc.ListNode{Val: 3}
+	//result := linked_list.ReverseLinkedList(&node)
+	//for result != nil {
+	//	fmt.Println(result.Val)
+	//	result = result.Next
+	//}
+
+	// Merge two sorted linked list
+	//node1 := datastruc.ListNode{Val: 1}
+	//node1.Next = &datastruc.ListNode{Val: 2}
+	//node1.Next.Next = &datastruc.ListNode{Val: 4}
+	//
+	//node2 := datastruc.ListNode{Val: 1}
+	//node2.Next = &datastruc.ListNode{Val: 3}
+	//node2.Next.Next = &datastruc.ListNode{Val: 5}
+	//result := linked_list.MergeTwoLists(&node1, &node2)
+	//for result != nil {
+	//	fmt.Println(result.Val)
+	//	result = result.Next
+	//}
+
+	// Reorder List
+	//node1 := &datastruc.ListNode{Val: 0}
+	//node1.Next = &datastruc.ListNode{Val: 1}
+	//node1.Next.Next = &datastruc.ListNode{Val: 2}
+	//node1.Next.Next.Next = &datastruc.ListNode{Val: 3}
+	//node1.Next.Next.Next.Next = &datastruc.ListNode{Val: 4}
+	//node1.Next.Next.Next.Next.Next = &datastruc.ListNode{Val: 5}
+	//node1.Next.Next.Next.Next.Next.Next = &datastruc.ListNode{Val: 7}
+	//linked_list.ReorderList(node1)
+
+	// Remove Nht node from end of list
+	node := &datastruc.ListNode{Val: 1}
+	node.Next = &datastruc.ListNode{Val: 2}
+	node.Next.Next = &datastruc.ListNode{Val: 3}
+	node.Next.Next.Next = &datastruc.ListNode{Val: 4}
+	node.Next.Next.Next.Next = &datastruc.ListNode{Val: 5}
+	result := linked_list.RemoveNhtFromEnd(node, 2)
+	for result != nil {
+		fmt.Println(result.Val)
+		result = result.Next
+	}
 }

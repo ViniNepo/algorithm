@@ -19,5 +19,15 @@ Output: []
 */
 
 func ReverseLinkedList(head *datastruc.ListNode) *datastruc.ListNode {
+	var prev *datastruc.ListNode
+	curr := head
 
+	for curr != nil {
+		temp := curr.Next
+		curr.Next = prev
+		prev = curr
+		curr = temp
+	}
+
+	return prev
 }
