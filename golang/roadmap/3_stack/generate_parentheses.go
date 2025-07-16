@@ -50,3 +50,25 @@ func GenerateParenthesis(n int) []string {
 	backtrack(0, 0)
 	return result
 }
+
+func GenerateParenthesis_2(n int) []string {
+	return backtrack(n, 0, 0, []string{}, []string{})
+}
+
+func backtrack(
+	n, openN, closedN int,
+	stack []string,
+	result []string,
+) []string {
+	if openN == n && closedN == n {
+		return append(result, strings.Join(stack, ""))
+	}
+
+	if openN < n {
+		result = backtrack(n, openN+1, closedN, append(stack, "("), result)
+	}
+	if closedN < openN {
+		result = backtrack(n, openN, closedN+1, append(stack, ")"), result)
+	}
+	return result
+}
