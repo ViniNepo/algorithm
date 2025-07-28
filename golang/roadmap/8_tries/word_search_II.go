@@ -52,22 +52,22 @@ DFS explora todas as rotas possíveis no tabuleiro (células adjacentes), marcan
 Essa combinação é muito mais eficiente que tentar buscar cada palavra individualmente no tabuleiro, pois compartilha a exploração de prefixos comuns.
 */
 
-// TrieNode representa um nó da Trie, com até 26 filhos ('a'–'z') e, se
+// TrieNode2 representa um nó da Trie, com até 26 filhos ('a'–'z') e, se
 // word != "", significa que ali termina uma palavra válida.
-type TrieNode struct {
-	children [26]*TrieNode
+type TrieNode2 struct {
+	children [26]*TrieNode2
 	word     string
 }
 
 // buildTrie constrói a Trie a partir da lista de words.
-func buildTrie(words []string) *TrieNode {
-	root := &TrieNode{}
+func buildTrie(words []string) *TrieNode2 {
+	root := &TrieNode2{}
 	for _, w := range words {
 		node := root
 		for _, ch := range w {
 			idx := ch - 'a'
 			if node.children[idx] == nil {
-				node.children[idx] = &TrieNode{}
+				node.children[idx] = &TrieNode2{}
 			}
 			node = node.children[idx]
 		}
@@ -96,7 +96,7 @@ func findWords(board [][]byte, words []string) []string {
 // dfs explora recursivamente a partir de (i,j), seguindo a Trie.
 // Quando encontra node.word != "", registra a palavra em res
 // e zera node.word para evitar duplicatas.
-func dfs(board [][]byte, i, j int, node *TrieNode, res *[]string) {
+func dfs(board [][]byte, i, j int, node *TrieNode2, res *[]string) {
 	// checa limites e visitação
 	if i < 0 || j < 0 || i >= len(board) || j >= len(board[0]) {
 		return
