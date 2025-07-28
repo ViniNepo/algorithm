@@ -27,7 +27,7 @@ func (s *Stack) Size() int {
 	return len(s.stack)
 }
 
-func main() {
+func test() {
 	stack := Stack{}
 
 	stack.Push(1)

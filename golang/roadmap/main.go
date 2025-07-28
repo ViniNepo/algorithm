@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	datastruc "github.com/ViniNepo/algorithm/golang/date_structure/arrays_and_hashing"
 	linked_list "github.com/ViniNepo/algorithm/golang/roadmap/6_linked_list"
 )
 
@@ -220,14 +219,18 @@ func main() {
 	//linked_list.ReorderList(node1)
 
 	// Remove Nht node from end of list
-	node := &datastruc.ListNode{Val: 1}
-	node.Next = &datastruc.ListNode{Val: 2}
-	node.Next.Next = &datastruc.ListNode{Val: 3}
-	node.Next.Next.Next = &datastruc.ListNode{Val: 4}
-	node.Next.Next.Next.Next = &datastruc.ListNode{Val: 5}
-	result := linked_list.RemoveNhtFromEnd(node, 2)
-	for result != nil {
-		fmt.Println(result.Val)
-		result = result.Next
-	}
+	//node := &datastruc.ListNode{Val: 1}
+	//node.Next = &datastruc.ListNode{Val: 2}
+	//node.Next.Next = &datastruc.ListNode{Val: 3}
+	//node.Next.Next.Next = &datastruc.ListNode{Val: 4}
+	//node.Next.Next.Next.Next = &datastruc.ListNode{Val: 5}
+	//result := linked_list.RemoveNhtFromEnd(node, 2)
+	//for result != nil {
+	//	fmt.Println(result.Val)
+	//	result = result.Next
+	//}
+
+	// Find Duplicate Number
+	arr := []int{2, 2, 3, 4, 2, 5}
+	fmt.Println(linked_list.FindDuplicatedNumber(arr))
 }
